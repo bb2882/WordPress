@@ -1,11 +1,17 @@
 # WordPress Intensive Website
 
 ![Section 1](https://github.com/bb2882/wordpress/assets/70382872/8a282628-d6c3-4f42-bc4e-aaa2391894ee)
+
 ![Section 2](https://github.com/bb2882/wordpress/assets/70382872/6338aa19-15a2-4184-bff1-5f88e435229a)
+
 ![Section 3](https://github.com/bb2882/wordpress/assets/70382872/f8f5807d-be3c-4497-9553-623794ccab83)
-![Section 4](https://github.com/bb2882/wordpress/assets/70382872/db0f437b-5ac6-4a4d-8a12-ac450f870f4f)
+
+![Section 4](https://github.com/bb2882/wordpress/assets/70382872/45e94dac-4618-4ead-822a-dfe96e8f1c9a)
+
 ![Section 5](https://github.com/bb2882/wordpress/assets/70382872/76028797-ed3a-4362-aeec-7dd143a139c1)
+
 ![Section 6](https://github.com/bb2882/wordpress/assets/70382872/ddfc023b-00c1-4917-9f92-954698ef7f41)
+
 ![Section 7](https://github.com/bb2882/wordpress/assets/70382872/9bb5a149-39c0-4624-b31d-13da014a706c)
 
 Welcome to the WordPress Intensive Website! This project showcases a static website built purely with HTML and CSS, promoting the benefits and privileges of WordPress as a powerful content management system (CMS) for building dynamic websites.
