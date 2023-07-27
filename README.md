@@ -46,7 +46,7 @@ To explore the My WordPress Intensive Website locally on your computer, follow t
    git clone https://github.com/bb2882/wordpress.git
    ```
 
-2. **View the Website:** Open the `index.html` file in your web browser to view the website locally.
+2. **View the Website:** Open the `index.html` file in your web browser to view the website locally. 
 
 Now you can explore the website and see all the key features of the WordPress Intensive Website in action on your own machine.
 
